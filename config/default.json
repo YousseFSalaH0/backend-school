@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "sml_jwtPrivateKey",
+  "db": "mongodb://localhost/sml-school"
+}

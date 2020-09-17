@@ -1,0 +1,29 @@
+{"message":"Could not get news.","stack":"Error: Could not get news.\n    at Object.<anonymous> (/home/mohamed/Desktop/school-client/sml-app-backEnd/index.js:30:7)\n    at Module._compile (internal/modules/cjs/loader.js:1075:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1096:10)\n    at Module.load (internal/modules/cjs/loader.js:940:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:781:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2020-09-04T05:36:10.010Z"}
+{"message":"Something failed!","stack":"Error: Something failed!\n    at Object.<anonymous> (/home/mohamed/Desktop/school-client/sml-app-backEnd/index.js:35:26)\n    at Module._compile (internal/modules/cjs/loader.js:1075:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1096:10)\n    at Module.load (internal/modules/cjs/loader.js:940:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:781:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2020-09-04T05:41:08.529Z"}
+{"message":"Something failed!","stack":"Error: Something failed!\n    at Object.<anonymous> (/home/mohamed/Desktop/school-client/sml-app-backEnd/index.js:35:26)\n    at Module._compile (internal/modules/cjs/loader.js:1075:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1096:10)\n    at Module.load (internal/modules/cjs/loader.js:940:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:781:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2020-09-04T05:41:29.604Z"}
+{"message":"Something failed!","stack":"Error: Something failed!\n    at Object.<anonymous> (/home/mohamed/Desktop/school-client/sml-app-backEnd/index.js:35:26)\n    at Module._compile (internal/modules/cjs/loader.js:1075:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1096:10)\n    at Module.load (internal/modules/cjs/loader.js:940:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:781:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2020-09-04T05:43:26.364Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:11:28.619Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:12:58.552Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:13:20.300Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:14:44.935Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:15:23.289Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:17:11.848Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:17:38.552Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:18:00.937Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T06:18:58.189Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:18:58.221Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T06:21:18.202Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:21:18.232Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T06:43:05.270Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:43:05.344Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T06:43:09.013Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:43:09.060Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T06:49:51.529Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:49:51.558Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T06:50:06.086Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:50:06.115Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T06:58:26.299Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T06:58:26.361Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T07:30:14.260Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-09-04T07:30:14.326Z"}
+{"level":"info","message":"Listening on port 5000...","timestamp":"2020-09-04T07:54:55.029Z"}
